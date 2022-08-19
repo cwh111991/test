@@ -1,0 +1,1 @@
+git --work-tree=D:/phpstudy_pro/WWW/test1 --git-dir=/d/phpstudy_pro/WWW/test/.git checkout -f origin/master
